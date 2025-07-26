@@ -1,4 +1,11 @@
 # 👋 Hi, I'm Diwakar!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A22051694/A22051694/main/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=A22051694&label=Profile%20views&color=0e75b6&style=flat" alt="A22051694" />
+</p>
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:00cc99&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff)
 
