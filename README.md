@@ -78,7 +78,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/A22051694/A22051694/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/A22051694/A22051694/main/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;" />
 </p>
 ---
 
