@@ -32,8 +32,8 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A22051694&show_icons=true&theme=radical" alt="A22051694's GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A22051694&theme=radical" alt="A22051694's streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=A22051694&show_icons=true&theme=github_white" alt="A22051694's GitHub stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A22051694&theme=github_white" alt="A22051694's streak" height="180" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ## 🏆 My Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=A22051694&theme=algolia&margin-w=10&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=A22051694&theme=github_white" alt="trophy" />
 </p>
 
 ---
