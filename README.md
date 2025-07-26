@@ -1,4 +1,4 @@
-# 👋 Hi, I'm A22051694!
+# 👋 Hi, I'm Diwakar!
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:00cc99&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff)
 
