@@ -9,14 +9,18 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: A22051694
           outputs: |
             output/github-contribution-grid-snake.svg
-      - name: Push the generated SVG to the output branch
+
+      - name: Commit and Push changes
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Generate contribution snake"
           add: "output/github-contribution-grid-snake.svg"
+          message: "Generate contribution snake"
