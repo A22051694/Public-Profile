@@ -29,6 +29,14 @@
 
 ---
 
+## 📖 Guides & Resources
+
+| Guide | Description |
+|-------|-------------|
+| [Serverless API Monetization Guide](./SERVERLESS_API_MONETIZATION_GUIDE.md) | 💰 Complete guide to building profitable serverless API services with zero capital - includes 5 API families and monetization strategies |
+
+---
+
 ## 📊 My GitHub Stats
 
 <p align="center">
